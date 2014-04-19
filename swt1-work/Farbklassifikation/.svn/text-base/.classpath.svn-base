@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/tobias/Dokumente/Studium/SS2012/SWT/stud-2012/Uebungen/2/lib/args4j-2.0.21.jar"/>
+	<classpathentry kind="lib" path="/home/tobias/Dokumente/Studium/SS2012/SWT/stud-2012/Uebungen/2/lib/args4j-2.0.21-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

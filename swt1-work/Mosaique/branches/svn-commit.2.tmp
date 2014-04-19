@@ -1,0 +1,6 @@
+Abgabeversion
+-- Diese und die folgenden Zeilen werden ignoriert --
+
+AM   parallel/Laufzeitprofil.ods
+A    parallel/src/edu/kit/ipd/Mosaique/MosaiqueThread.java
+M    parallel/src/edu/kit/ipd/Mosaique/Mosaique.java

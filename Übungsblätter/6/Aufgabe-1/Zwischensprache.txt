@@ -1,0 +1,47 @@
+02: // first calculcate prime factors of the given tile size
+03: CopyOnWriteArraySet<Integer> validSizes =
+04:     new CopyOnWriteArraySet<Integer>();
+05: int i = 2;
+
+06: if not (i <= height / i) goto 20
+
+07: if not ((height % i == 0) && (width % i == 0)) goto 17
+
+08: // found common denominator
+09: Iterator iter = validSizes.iterator()
+
+10: if not (iter.hasNext()) goto 13;
+
+11: validSizes.add(iter.next() * i);
+12: goto 10;
+13: validSizes.add(i);
+14: width /= i;
+15: height /= i;
+16: goto 07
+
+17: i++;
+18: goto 06
+
+20: if not (validSizes.size() == 0) goto 22;
+
+21: return null;
+
+22: int lowestError = Integer.MAX_VALUE;
+23: int bestTileSize = Integer.MAX_VALUE;
+24: 
+25: iter = validSizes.iterator();
+
+26: if not (iter.hasNext()) goto 34;
+
+27: int error = Math.abs(iter.next() - sizeWish);
+
+28: if not (error < lowestError) goto 33;
+
+29: // new best candidate
+30: lowestError = error;
+31: bestTileSize = vts;
+32:
+33: goto 26
+
+34: return bestTileSize;
+

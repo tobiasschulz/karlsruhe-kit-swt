@@ -1,0 +1,52 @@
+------------------------------------------------------------------------
+r7 | tobias | 2012-05-27 20:59:07 +0200 (So, 27. Mai 2012) | 2 Zeilen
+Geänderte Pfade:
+   A /Mosaique
+   A /Mosaique/.checkstyle
+   A /Mosaique/.classpath
+   A /Mosaique/.project
+   A /Mosaique/.settings
+   A /Mosaique/.settings/org.eclipse.jdt.core.prefs
+   A /Mosaique/lib
+   A /Mosaique/lib/args4j-2.0.21-sources.jar
+   A /Mosaique/lib/args4j-2.0.21.jar
+   A /Mosaique/res
+   A /Mosaique/res/000000 1px.png
+   A /Mosaique/res/000000 halb.png
+   A /Mosaique/res/000000 viertel.png
+   A /Mosaique/res/000000.png
+   A /Mosaique/res/0000ff 1px.png
+   A /Mosaique/res/0000ff halb.png
+   A /Mosaique/res/0000ff viertel.png
+   A /Mosaique/res/0000ff.png
+   A /Mosaique/res/00ff00 1px.png
+   A /Mosaique/res/00ff00 halb.png
+   A /Mosaique/res/00ff00 viertel.png
+   A /Mosaique/res/00ff00.png
+   A /Mosaique/res/888888 1px.png
+   A /Mosaique/res/888888 halb.png
+   A /Mosaique/res/888888 viertel.png
+   A /Mosaique/res/888888.png
+   A /Mosaique/res/bunt.png
+   A /Mosaique/res/ff0000 1px.png
+   A /Mosaique/res/ff0000 halb.png
+   A /Mosaique/res/ff0000 viertel.png
+   A /Mosaique/res/ff0000.png
+   A /Mosaique/res/ffffff 1px.png
+   A /Mosaique/res/ffffff.png
+   A /Mosaique/src
+   A /Mosaique/src/edu
+   A /Mosaique/src/edu/kit
+   A /Mosaique/src/edu/kit/ipd
+   A /Mosaique/src/edu/kit/ipd/Mosaique
+   A /Mosaique/src/edu/kit/ipd/Mosaique/ClassifiedDirectory.java
+   A /Mosaique/src/edu/kit/ipd/Mosaique/ClassifiedImage.java
+   A /Mosaique/src/edu/kit/ipd/Mosaique/Configuration.java
+   A /Mosaique/src/edu/kit/ipd/Mosaique/Mosaique.java
+   A /Mosaique/src/edu/kit/ipd/Mosaique/MosaiqueImage.java
+   A /Mosaique/src/edu/kit/ipd/Mosaique/RGBAvgHolder.java
+   A /Mosaique/src/edu/kit/ipd/Mosaique/Util.java
+
+erster Code aufbauend auf der Musterlösung
+
+------------------------------------------------------------------------

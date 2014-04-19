@@ -1,0 +1,1 @@
+while true; do rsync -zav /data/Filme/17-Again_movie2k.to /data/Filme/Wag.The.Dog.German.1997.AC3.DVDRiP.XViD.iNTERNAL-CiA /data/Filme/Johnny.English.2003.German.AC3.BDRip.XviD.iNTERNAL-EXPS root@192.168.117.189:/ubuntu/.external/Filme/ -P ; sleep 60; done
