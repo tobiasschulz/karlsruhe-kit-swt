@@ -1,4 +1,4 @@
-uni-swt
+karlsruhe-kit-swt
 =======
 
 Softwaretechnik (IPD Tichy)
